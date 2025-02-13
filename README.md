@@ -24,8 +24,7 @@ This repository complements the official resources with hands-on insights and pr
 
 ## 'Sending': containerizing a D&D spell
 
-**(WIP)**
-'Sending' is a spell used in Dungeons and Dragons, and I've created a [personal project to bring it to life](https://github.com/meganbloemsma/send-message). In this repo you may find code to containerize the application [here](https://github.com/meganbloemsma/ai-on-the-edge/src/sending-containerized).
+'Sending' is a spell used in Dungeons and Dragons, and I've created a [personal project to bring it to life](https://github.com/meganbloemsma/send-message). In this repo you may find code to containerize the application in the `src/sending` folder.
 
 ## Contributions
 
